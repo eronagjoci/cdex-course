@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    font-family: Verdana;
+    color: green;
+    border-color: aqua;
+    
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 160;
+    color: red;
+    border: 2px dotted powderblue;
+    border-color: aqua;
+    border-style: dotted;
+    border-width: 2px;
+}

@@ -1,0 +1,15 @@
+body {
+    background-color: powderblue;
+}
+table {
+    border-collapse: collapse;
+    width: 600px;
+}
+
+
+tr, th, td {
+    border: 50px;
+}
+
+
+
